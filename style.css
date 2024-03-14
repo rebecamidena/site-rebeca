@@ -1,8 +1,13 @@
-@chanset "UTF-8"
+@charset "UTF-8"
 body{
   background-color: #DCDCDC;
   color:#000000;
   front-size: 10 pts;
   font-family: Arial;
 }
-
+title{
+  background-color: #000080;
+  color:#000000;
+  front-size: 30 pts;
+  font-family: Times New Roman;
+}
