@@ -1,7 +1,7 @@
 @charset "UTF-8"
 body{
-  background-color: #DCDCDC;
-  color:#000000;
+  background-color: black;
+  color: blue;
   front-size: 10 pts;
   font-family: Arial;
 }
