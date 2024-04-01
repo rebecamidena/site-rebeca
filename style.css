@@ -1,13 +1,25 @@
 @charset "UTF-8";
-body{
-  background-color: black;
-  color: blue;
-  front-size: 10 pts;
-  font-family: Arial;
+body {
+    background: linear-gradient(to right, #ff00ff, #00ffff); /* Degrade com as duas cores escolhidas */
+    color: blue;
+    font-size: 10pt; /* Corrigido para "font-size" */
+    font-family: Arial;
+    text-align: center; /* Centralizar texto */
 }
-h1{
-  background-color: red;
-  color: black;
-  front-size: 30 pts;
-  font-family: Times New Roman;
+
+h1 {
+    font-size: 30px; /* Corrigido para "font-size" */
+    color: black;
+    font-family: Times New Roman; /* Corrigido para "font-family" */
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    font-family: Times New Roman; /* Corrigido para "font-family" */
+}
+
+a {
+    color: blue;
+    text-decoration: none; /* Remover linha sublinhada */
 }
