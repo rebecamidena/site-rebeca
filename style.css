@@ -2,9 +2,9 @@
 body {
     background: linear-gradient(to right, #ff00ff, #00ffff); /* Degrade com as duas cores escolhidas */
     color: blue;
-    font-size: 10pt; /* Corrigido para "font-size" */
+    font-size: 10pt; 
     font-family: Arial;
-    text-align: center; /* Centralizar texto */
+    text-align: center; 
 }
 
 h1 {
