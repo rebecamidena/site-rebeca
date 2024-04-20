@@ -36,9 +36,10 @@ a {
 }
 
   .container {
-    text-align: center;
+    text-align: left;
   }
   .container img {
-    margin: 0 auto;
-    display: block;
+    display: block,
+    margin-left: auto;
+    margin-right: auto;
   }
