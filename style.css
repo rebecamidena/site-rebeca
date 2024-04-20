@@ -1,10 +1,10 @@
 @charset "UTF-8";
 body {
-    background: linear-gradient(to right, #ff00ff, #00ffff); /* Degrade com as duas cores escolhidas */
+    background: linear-gradient(to right, #ff00ff, #00ffff); 
     color: blue;
-    font-size: 10pt; 
+    font-size: 20px; 
     font-family: Arial;
-    text-align: center; 
+    text-align: left; 
 }
 
 h1 {
